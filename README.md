@@ -8,4 +8,5 @@ Open https://play.typeracer.com/, click on race, run race.py and press "v" when 
 
 ## Notes
 Change the interval to change your typing speed
+
 0.09 ~ 100wpm
