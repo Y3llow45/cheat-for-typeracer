@@ -8,4 +8,4 @@ Change the interval to change your typing speed
 
 0.09 ~ 100wpm
 
-No cheat for race mode because it has anti cheat system :(
+No cheat for race mode because it has anti-cheat system :(
