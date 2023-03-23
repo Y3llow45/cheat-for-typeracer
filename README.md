@@ -12,7 +12,7 @@ Don't go over 100wpm cuz there is anti-cheat system.
 
 ## What to do if it doesn't work
 
-Use firefox and scroll down a little bit.
+Use firefox
 
 OR
 
